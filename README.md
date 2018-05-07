@@ -9,7 +9,7 @@
 
       mkdir data
       
-      git clone 
+      git clone https://github.com/KristinockaK/snowdog.git
   
 3. #### Pobieramy i rozpakowujemy do 'data' dane z Kaggle:
 
